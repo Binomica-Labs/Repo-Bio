@@ -1,4 +1,4 @@
 Repo-Bio
 ========
 
-Binomica Repository for Biological Parts 
+Binomica Public Repository for Biological Parts 
